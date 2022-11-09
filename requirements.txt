@@ -3,13 +3,13 @@ billiard==3.6.3.0
 celery==4.4.7
 channels==3.0.3
 channels-postgres==0.0.3
-Django==2.2
+Django==3.2.15
 django-cors-headers==2.1.0
 django-notifs==3.0.2
 django-templated-mail==1.0.0
 djangorestframework==3.7.7
 djangorestframework-jwt==1.11.0
-djoser==1.1.5
+djoser==1.5.1
 gevent==21.1.2
 greenlet==1.0.0
 kombu==4.6.11
